@@ -1,0 +1,7 @@
+# Credential information to access UCD PS360
+# Change username and password and rename file 'creds.py'
+
+username = 'ashah3'
+password = 'asdfjk;l1'
+url = 'https://hsradpsapp01.ucdmc.ucdavis.edu/RadPortal/'
+site = 'UC Davis'
